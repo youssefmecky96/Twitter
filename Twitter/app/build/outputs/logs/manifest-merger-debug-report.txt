@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/8469c24b80642e04820bf8c6c0c170dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f163b3f89e7b9c193ac336786e16fd06/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/5457d12e5d660ace8ae5b7f897a616af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/53a618f1f5241fc79cc0e7b112b1d936/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/2ba820a612e22ff075450fdc535e89c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/1464f526df8a27176beebcbb9bdcad43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f2b00388fa3be2a4c82713ffecdc6d4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/fcd27f363b3e7d274678a792f954270d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/aee9afc5c167c0107417b382e3a228e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/48338a5d190229ea145d619975ddb049/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/158c0b51cdb9420f5ff78824829e6248/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/cc675c5aacb0c24b819a3b82543b4eae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/01ee727dd55e9f00563f2ecff05dbdf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/dafdd806fa6c7d1999404ab8cec1d564/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/dc16b3cf1087535079ba4539804dc91f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6ee40aa280a1e2e9612a4f6b54a2e667/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/08e20dfb978f716eaa56301ce6c55f84/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/cb8cddf4914aee860ef4dc9a59472dde/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/5e83a57561a86fef12275e4be3aa7f41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/efa83dc8de114162f743601cce879016/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/b33e995827302d55694083f88bdd704c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/bc387e3e430a165dfcbee548f38650ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/358bfff4999a8b6b3b246bac600d13b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6f4ff3100bbb4555b583278afd1303fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/983636fd418022d18bc663e495e89787/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f0842a76d95e48b84881750a2f501f0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/0b9c967b5c790a34314fd2dbd2f3eeec/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f163b3f89e7b9c193ac336786e16fd06/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f163b3f89e7b9c193ac336786e16fd06/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6ee40aa280a1e2e9612a4f6b54a2e667/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6ee40aa280a1e2e9612a4f6b54a2e667/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/08e20dfb978f716eaa56301ce6c55f84/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/08e20dfb978f716eaa56301ce6c55f84/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6ee40aa280a1e2e9612a4f6b54a2e667/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.twitter.MainActivity
+ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/8469c24b80642e04820bf8c6c0c170dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/8469c24b80642e04820bf8c6c0c170dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f163b3f89e7b9c193ac336786e16fd06/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f163b3f89e7b9c193ac336786e16fd06/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/5457d12e5d660ace8ae5b7f897a616af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/5457d12e5d660ace8ae5b7f897a616af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/53a618f1f5241fc79cc0e7b112b1d936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/53a618f1f5241fc79cc0e7b112b1d936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/2ba820a612e22ff075450fdc535e89c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/2ba820a612e22ff075450fdc535e89c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/1464f526df8a27176beebcbb9bdcad43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/1464f526df8a27176beebcbb9bdcad43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f2b00388fa3be2a4c82713ffecdc6d4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f2b00388fa3be2a4c82713ffecdc6d4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/fcd27f363b3e7d274678a792f954270d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/fcd27f363b3e7d274678a792f954270d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/aee9afc5c167c0107417b382e3a228e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/aee9afc5c167c0107417b382e3a228e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/48338a5d190229ea145d619975ddb049/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/48338a5d190229ea145d619975ddb049/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/158c0b51cdb9420f5ff78824829e6248/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/158c0b51cdb9420f5ff78824829e6248/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/cc675c5aacb0c24b819a3b82543b4eae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/cc675c5aacb0c24b819a3b82543b4eae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/01ee727dd55e9f00563f2ecff05dbdf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/01ee727dd55e9f00563f2ecff05dbdf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/dafdd806fa6c7d1999404ab8cec1d564/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/dafdd806fa6c7d1999404ab8cec1d564/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/dc16b3cf1087535079ba4539804dc91f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/dc16b3cf1087535079ba4539804dc91f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6ee40aa280a1e2e9612a4f6b54a2e667/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6ee40aa280a1e2e9612a4f6b54a2e667/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/08e20dfb978f716eaa56301ce6c55f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/08e20dfb978f716eaa56301ce6c55f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/cb8cddf4914aee860ef4dc9a59472dde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/cb8cddf4914aee860ef4dc9a59472dde/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/5e83a57561a86fef12275e4be3aa7f41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/5e83a57561a86fef12275e4be3aa7f41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/efa83dc8de114162f743601cce879016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/efa83dc8de114162f743601cce879016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/b33e995827302d55694083f88bdd704c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/b33e995827302d55694083f88bdd704c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/bc387e3e430a165dfcbee548f38650ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/bc387e3e430a165dfcbee548f38650ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/358bfff4999a8b6b3b246bac600d13b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/358bfff4999a8b6b3b246bac600d13b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6f4ff3100bbb4555b583278afd1303fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/6f4ff3100bbb4555b583278afd1303fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/983636fd418022d18bc663e495e89787/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/983636fd418022d18bc663e495e89787/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f0842a76d95e48b84881750a2f501f0f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/f0842a76d95e48b84881750a2f501f0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/0b9c967b5c790a34314fd2dbd2f3eeec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/youssefmecky/.gradle/caches/transforms-2/files-2.1/0b9c967b5c790a34314fd2dbd2f3eeec/AndroidManifest.xml:20:5-44
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youssefmecky/Downloads/Twitter/app/src/main/AndroidManifest.xml
